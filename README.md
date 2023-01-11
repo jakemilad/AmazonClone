@@ -1,9 +1,9 @@
-<<<<<<< HEAD
 # AmazonClone
 
+Amazon clone build using React for Frontend and deployed to Google Firebase for backend. Functionality includes add and removing from basket, account creation and payment processing implmented using Stripe API.
 
-Amazon Clone built using React front end and Firebase backend. Complete e-commerce functionality with adding items to basket, logging into accounts and payment processing.
 =======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -74,4 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 3a8c6b4 (init)
+
+> > > > > > > 3a8c6b4 (init)
